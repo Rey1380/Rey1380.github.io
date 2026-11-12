@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rey1380.github.io/sitemap.xml
